@@ -13,4 +13,6 @@
 #
 ---
 board: [seeeduino_xiao_ble]
-shield: [dactylsygnus]
+shield: [dactylsygnus-left]
+board: [seeeduino_xiao_ble]
+shield: [dactylsygnus-right]
