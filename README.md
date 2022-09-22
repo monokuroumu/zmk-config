@@ -1,1 +1,3 @@
-# Dactyl Sygnus handwired Seeeduino XIAO BLE zmk-config
+# Dactyl Sygnus 
+
+zmk-config for handwired version running Seeeduino XIAO BLE 
