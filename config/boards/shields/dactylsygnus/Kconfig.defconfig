@@ -1,0 +1,19 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_DACTYLSYGNUS_LEFT
+
+config ZMK_KEYBOARD_NAME
+	default "Dactyl Sygnus"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+	default y
+
+endif
+
+if SHIELD_DACTYLSYGNUS_LEFT || SHIELD_DACTYLSYGNUS_RIGHT
+
+config ZMK_SPLIT
+	default y
+
+endif
