@@ -1,6 +1,6 @@
 file_format: "1"
 id: dactylsygnus
-name: Dactyl Sygnus
+name: DactylSygnus
 type: shield
 url: https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v0.5
 requires: [pro_micro]
