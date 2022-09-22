@@ -12,3 +12,5 @@
 #     shield: reviung41
 #
 ---
+board: [seeeduino_xiao_ble]
+shield: [dactylsygnus]
