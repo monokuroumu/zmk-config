@@ -6,8 +6,11 @@
 
 #include "dactylsygnus.dtsi"
 
+&default_transform {
+	col-offset = <5>;
+};
+
 &kscan0 {
-    col-offset = <5>;
 	col-gpios
 		= <&xiao_d 0 (GPIO_ACTIVE_HIGH)>
         , <&xiao_d 1 (GPIO_ACTIVE_HIGH)>
